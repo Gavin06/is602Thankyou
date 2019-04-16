@@ -37,7 +37,7 @@
 
                 <h2>Heading</h2>
 
-                <p>A joyful heart is good medicine</p>
+                <p>A joyful heart is good medicine. Get one.</p>
 
                 <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
             </div>
