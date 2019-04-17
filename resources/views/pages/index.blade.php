@@ -5,7 +5,7 @@
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron">
         <div class="container">
-            <h1 class="display-3">Hello, world!</h1>
+            <h1 class="display-3">Hello, World!</h1>
             <p>This is a template for a simple marketing or informational website. It includes a large callout called a
                 jumbotron and three supporting pieces of content. Use it as a starting point to create something more
                 unique.</p>
@@ -18,7 +18,7 @@
         <!-- Example row of columns -->
         <div class="row">
             <div class="col-md-4">
-                <h2>Heading</h2>
+                <h2>Heading1</h2>
                 <p>A joyful heart is good medicine. Its true.</p>
                 <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
 
@@ -26,7 +26,7 @@
 
             <div class="col-md-4">
 
-                <h2>Heading</h2>
+                <h2>Heading2</h2>
 
                 <p>A joyful heart is good medicine. Yes it is. </p>
 
@@ -35,7 +35,7 @@
 
             <div class="col-md-4">
 
-                <h2>Heading</h2>
+                <h2>Heading3</h2>
 
                 <p>A joyful heart is good medicine. Get one.</p>
 
