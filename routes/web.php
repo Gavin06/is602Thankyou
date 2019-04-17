@@ -19,4 +19,4 @@ Route::get('/contact', 'PageController@contact')->name('contact');
 
 Route::post('/contact', 'PageController@store')->name('contact.store');
 
-Route::get('/thanks/{name}', 'PageController@thanks')->name('thanks');
+Route::get('/thankyou/{name}', 'PageController@thanks')->name('thanks');
